@@ -62,6 +62,7 @@ RUN pip3 install requests && \
      pip3 install bech32 && \
      pip3 install psutil && \
      pip3 install tqdm && \
+     pip3 install chardet && \
      pip3 install bech32m
 
   
