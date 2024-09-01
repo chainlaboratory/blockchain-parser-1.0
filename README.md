@@ -22,7 +22,7 @@ sudo apt-get install libleveldb-dev
 ### Using pip
 
 ```
-pip install blockchain-parser
+pip install blockchain-parser-1.0
 ```
 
 ### Using source
