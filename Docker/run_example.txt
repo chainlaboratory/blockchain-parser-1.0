@@ -1,0 +1,7 @@
+docker run -d \
+--name blockchain-parser \
+-it \
+-v /home/parser/scripts:/home/parser/scripts \
+-v /home/parser/node:/home/parser/node \
+-v /home/parser/data:/home/parser/data \
+btc-parser
